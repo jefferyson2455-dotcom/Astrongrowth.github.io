@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #121212; color: white; text-align: center; padding: 50px; }
+        h1 { font-size: 3em; }
+        p { font-size: 1.5em; }
+        a { color: #58a6ff; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Hello! 👋</h1>
+    <p>I'm [Your Name]</p>
+    <p>Welcome to my personal website!</p>
+    <p>I'm learning to code and building cool things on GitHub.</p>
+    <p><a href="https://github.com/yourusername" target="_blank">Check out my GitHub →</a></p>
+</body>
+</html>
